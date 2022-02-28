@@ -1,0 +1,29 @@
+{
+	"short_name": "Lonely Cross Group",
+	"name": "Lonely Cross Group | Comunicación Integral. Diseño Gráfico a tu Medida.",
+	"description": "Agencia de Comunicación y Arte dedicada a Consumo Masivo y Gestión Pública.",
+	"icons": [
+		{
+			"src": "https://lonelycross.com.ar/img/favicon.ico",
+			"type": "image/ico",
+			"sizes": "32x32",
+			"purpose": "maskable any"
+		},
+		{
+			"src:": "https://lonelycross.com.ar/img/icon.png",
+			"type": "image/png",
+			"sizes": "192x192",
+			"purpose": "maskable any"
+		},		
+		{
+			"src": "https://lonelycross.com.ar/img/icon-md.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "maskable any"
+		}
+	],
+	"start_url": "https://lonelycross.com.ar/index.html",
+	"background_color": "#db9600",
+	"display": "fullscreen",
+	"theme_color": "#db9600"
+}
